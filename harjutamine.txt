@@ -1,0 +1,5 @@
+To be very crisp about what exactly is GitHub, it is a file or code-sharing service to collaborate with different people. 
+GitHub is a highly used software that is typically used for version control. It is helpful when more than just one person is working on a project.
+Edasipidi saan kasutada GitHubi koolitööde jaoks.
+
+GitHub, Inc. is an American multinational corporation that provides hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project. Headquartered in California, it has been a subsidiary of Microsoft since 2018.
